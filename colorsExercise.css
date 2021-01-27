@@ -1,0 +1,21 @@
+h1{
+    color: #110000;
+}
+h2{
+    color:blueviolet;
+}
+h3{
+    color:  #15c;
+}
+h4{
+    color: rgb(0,250,0);
+}
+h5{
+    color: rgba(255, 0, 0, 0.5)
+}
+h6{
+    color: #151;
+}
+p{
+    color: #0000ff;
+}
